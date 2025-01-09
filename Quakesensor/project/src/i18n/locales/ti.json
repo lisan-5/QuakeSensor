@@ -1,0 +1,12 @@
+{
+  "appTitle": "ናይ ኢትዮጵያ መሬት ምንቅጥቃጥ መከታተሊ",
+  "recentEarthquakes": "ናይ ቀረባ እዋን መሬት ምንቅጥቃጥ",
+  "depth": "ጥልቀት",
+  "moreDetails": "ተወሳኺ ሓበሬታ",
+  "safetyInfo": "ናይ ድሕንነት ሓበሬታ",
+  "duringEarthquake": "ኣብ እዋን መሬት ምንቅጥቃጥ",
+  "afterEarthquake": "ድሕሪ መሬት ምንቅጥቃጥ",
+  "emergencyContacts": "ናይ ህጹጽ እዋን ቁጽርታት",
+  "preparedness": "ናይ ምድላው ምኽርታት",
+  "dataSource": "እዚ ሓበሬታ ብUSGS ናይ መሬት ምንቅጥቃጥ መከታተሊ ፕሮግራም ዝቐረበ እዩ"
+}

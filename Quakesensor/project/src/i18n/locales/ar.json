@@ -1,0 +1,12 @@
+{
+  "appTitle": "مراقب الزلازل في إثيوبيا",
+  "recentEarthquakes": "الزلازل الأخيرة",
+  "depth": "العمق",
+  "moreDetails": "المزيد من التفاصيل",
+  "safetyInfo": "معلومات السلامة",
+  "duringEarthquake": "أثناء الزلزال",
+  "afterEarthquake": "بعد الزلزال",
+  "emergencyContacts": "أرقام الطوارئ",
+  "preparedness": "نصائح التأهب",
+  "dataSource": "البيانات مقدمة من برنامج USGS لمخاطر الزلازل"
+}
