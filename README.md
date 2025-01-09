@@ -1,10 +1,6 @@
 # QuakeSensor
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Build Status](https://img.shields.io/github/actions/workflow/status/lisan-5/QuakeSensor/ci.yml?branch=main)
-![Issues](https://img.shields.io/github/issues/lisan-5/QuakeSensor)
-
-![QuakeSensor Demo](screenshots/demo.gif)
 
 ## Table of Contents
 
