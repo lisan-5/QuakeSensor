@@ -7,9 +7,6 @@
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
 
 ## Description
 
