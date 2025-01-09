@@ -27,14 +27,14 @@ QuakeSensor is a real-time earthquake detection and monitoring system. It levera
 git clone https://github.com/lisan-5/QuakeSensor.git
 cd QuakeSensor
 
-2. Install Dependencies
+### 2. Install Dependencies
 npm install
 
-3. Configure Environment Variables
+### 3. Configure Environment Variables
 Create a .env file in the root directory.
 Add the necessary configuration variables as outlined in the .env.example file.
 
-4. Run the Application
+### 4. Run the Application
 npm start
 
 Contributing
