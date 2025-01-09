@@ -47,8 +47,6 @@ Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a Pull Request.
 
-License
-This project is licensed under the MIT License.
 
-Contact
+
 For questions or support, please contact lisan5abay@gmail.com.
