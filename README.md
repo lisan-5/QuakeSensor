@@ -7,6 +7,7 @@
 - [Description](#description)
 - [Features](#features)
 - [Installation](#installation)
+- [Contributing](#contributing)
 
 ## Description
 
@@ -37,7 +38,7 @@ Add the necessary configuration variables as outlined in the .env.example file.
 ### 4. Run the Application
 npm start
 
-Contributing
+### Contributing
 Contributions are welcome! Please follow these steps:
 
 Fork the repository.
