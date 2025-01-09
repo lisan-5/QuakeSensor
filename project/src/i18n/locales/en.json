@@ -1,0 +1,20 @@
+{
+  "appTitle": "Ethiopia Earthquake Monitor",
+  "recentEarthquakes": "Recent Earthquakes",
+  "depth": "Depth",
+  "moreDetails": "More details",
+  "safetyInfo": "Safety Information",
+  "duringEarthquake": "During an Earthquake",
+  "afterEarthquake": "After an Earthquake",
+  "emergencyContacts": "Emergency Contacts",
+  "preparedness": "Preparedness Tips",
+  "dataSource": "Data provided by the USGS Earthquake Hazards Program",
+  "totalEvents": "Total Events",
+  "avgMagnitude": "Average Magnitude",
+  "highRiskEvents": "High Risk Events",
+  "filters": "Filters",
+  "minMagnitude": "Minimum Magnitude",
+  "timeRange": "Time Range",
+  "days": "days",
+  "recentHighMagnitude": "High magnitude earthquake (M{{magnitude}}) detected near {{location}}. Stay alert and follow safety guidelines."
+}
