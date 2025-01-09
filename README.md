@@ -31,7 +31,6 @@ QuakeSensor is a real-time earthquake detection and monitoring system. It levera
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/lisan-5/QuakeSensor.git
 cd QuakeSensor
 
